@@ -1,0 +1,44 @@
+body{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Source Sans Pro",sans-serif;
+}
+li {
+    list-style: none;
+}
+
+nav{
+    display: block;
+    background-color: #231f20;
+    position: absolute;
+    display: block;
+    left: 0;
+    width: 100%;
+    float: none;
+    margin: 0;
+}
+
+.profiel{
+    width: 25px;
+    height: 25px;
+    border: none;
+    margin-top: 5px;
+}
+
+.filters{
+    background-color: #d4effc;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 2px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    display: inline-block;
+
+}
+.filters:active{
+    background-color:
+
+}
